@@ -1,6 +1,9 @@
 # 🤖 AI OOH Segmentation Assistant (NEOOH)
 
 Assistente inteligente baseado em LLM para recomendação estratégica de mídia OOH, com interface web e deploy em ambiente cloud utilizando Google Cloud Platform.
+<p align="center">
+  <img src="./images/demo-final.gif" alt="Demonstração do projeto" width="700"/>
+</p>
 
 ---
 
